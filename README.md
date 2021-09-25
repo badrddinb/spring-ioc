@@ -1,2 +1,2 @@
-# spring-ioc
-Spring Inversion of Control
+# spring-ioc-xml
+Spring Inversion of Control using xml configuration
