@@ -6,5 +6,5 @@
     http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- Define Menu Bean (with needed object) -->
-    <bean id="menu" class="com.badrddinb.spring.springiocxml.Menus.PizzasMenu" />
+    <bean id="menu" class="com.badrddinb.spring.springiocxml.Menus.DrinksMenu" />
 </beans>
